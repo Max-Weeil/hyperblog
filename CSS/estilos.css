@@ -1,6 +1,14 @@
 body{
     text-align: center;
     color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#titulo{
+    background-color: blue;
+    color: aqua;
 }
 #container
 {
@@ -9,4 +17,24 @@ body{
     text-align: left;
     border: 1px solid saddlebrown;
     margin: 0 auto;
+}
+#cabecera
+{
+    background: #33c;
+    color: azure;
+    margin: 0;
+    padding: 0.5em;
+    border: 15px;
+
+}
+#container h1{
+    font-size: 20px;
+}
+#post{
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 0;
+    border: 10 px;
+
 }
